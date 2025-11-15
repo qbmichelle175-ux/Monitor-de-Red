@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|c:\\users\\silvia bonilla\\downloads\\santana\\monitor de red santana\\monitor de red\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|c:\\users\\silvia bonilla\\downloads\\santana\\monitor de red santana\\monitor de red\\mich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|solutionrelative:mich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|c:\\users\\silvia bonilla\\downloads\\santana\\monitor de red santana\\monitor de red\\mich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|solutionrelative:mich.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|c:\\users\\silvia bonilla\\downloads\\santana\\monitor de red santana\\monitor de red\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{48F0253E-D8BD-434C-9CBB-A6B17EE88584}|Monitor de Red.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Mich.vb",
+              "DocumentMoniker": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Mich.vb",
+              "RelativeDocumentMoniker": "Mich.vb",
+              "ToolTip": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Mich.vb",
+              "RelativeToolTip": "Mich.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T01:01:37.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mich.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Mich.vb",
+              "RelativeDocumentMoniker": "Mich.vb",
+              "ToolTip": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Mich.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Mich.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T01:00:17.064Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-28T00:44:58.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "C:\\Users\\Silvia Bonilla\\Downloads\\Santana\\Monitor de red Santana\\Monitor de Red\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-10-27T15:22:58.872Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
