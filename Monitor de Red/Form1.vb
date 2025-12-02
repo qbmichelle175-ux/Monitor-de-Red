@@ -60,12 +60,14 @@ Public Class Form1
             Registra.ExecuteNonQuery()
             Conexion.Close()
 
-            ' Mostrar popup Mich
-            Dim popup As New Mich()
-            popup.ShowDialog()
+                    Dim rows = cmd.ExecuteNonQuery()
+                    Console.WriteLine("Filas insertadas: " & rows)
+                End Using
+            End Using
 
         Catch ex As Exception
-            MessageBox.Show("Error al registrar: " & ex.Message, "Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            ' Guardar error en log
+            System.IO.File.AppendAllText("error_log.txt", DateTime.Now & " - " & ex.Message & Environment.NewLine)
         End Try
     End Sub
 
